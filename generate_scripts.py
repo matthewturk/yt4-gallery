@@ -25,6 +25,14 @@ def list_datafiles():
         for ds in sorted(d[frontend], key = lambda a: a['filename']):
             click.echo(f"{frontend}/{ds['filename']}")
 
+def append_saved_file(dataset, version, plot_index, info):
+    if os.path.isfile("catalog.json"):
+        current = json.load(open("catalog.json", "r"))
+    else:
+        current = {}
+    current.setdefault(dataset, {}).setdefault(version, {})[plot_index] = info
+    json.dump(current, open("catalog.json", "w"))
+
 @main.command()
 @click.option("-y", "--yt-version", required=False, default=4, type=int)
 @click.argument("dataset", type=str, required=True)
@@ -66,6 +74,9 @@ def make_plots(dataset, yt_version):
                     click.echo(f"Saving {fn}")
                     p.save(fn)
                     plot_index += 1
+                    append_saved_file(dataset, f"yt{yt_version}", plot_index,
+                                      {'field': f, 'axis': ax, 'weight_field': w,
+                                       'zoom': zoom, 'filename': fn})
 
 if __name__ == "__main__":
     sys.exit(main())
