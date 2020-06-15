@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>yt image catalog</title>
+  </head>
+  <body>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js" integrity="sha256-Xb6SSzhH3wEPC4Vy3W70Lqh9Y3Du/3KxPqI2JHQSpTw=" crossorigin="anonymous"></script>
+    <div class="container-fluid">
+        <div class="row my-3">
+            <div class="col">
+                <div class="input-group mb-1">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="dataset">dataset</label>
+                    </div>
+                    <select name="dataset" id="dataset" class="custom-select">
+                    </select>
+                </div>
+                <div class="input-group mb-1">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="field">field</label>
+                    </div>
+                    <select name="field" id="field" class="custom-select">
+                        <option value="density_None">Column Density</option>
+                        <option value="temperature_density">(Avg) Temperature</option>
+                        <option value="velocity_magnitude_density">(Avg) Velocity Magnitude</option>
+                        <option value="density_density">(Avg) Density</option>
+                    </select>
+                </div>
+                <div class="input-group mb-1">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="axis">axis</label>
+                    </div>
+                    <select name="axis" id="axis" class="custom-select">
+                        <option value="x">x</option>
+                        <option value="y">y</option>
+                        <option value="z">z</option>
+                    </select>
+                </div>
+                <div class="input-group mb-1">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="zoom">zoom</label>
+                    </div>
+                    <select name="zoom" id="zoom" class="custom-select">
+                        <option value=1>1x</option>
+                        <option value=2>2x</option>
+                        <option value=10>10x</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row my-3">
+            <div class="col"><h3 class="text-center">yt 3.5</h3><img src="" class="compimages" width="100%" id="yt3"></div>
+            <div class="col"><h3 class="text-center">yt 4.0</h3><img src="" class="compimages" width="100%" id="yt4"></div>
+        </div>
+    </div>
+  </body>
+    <script>
+        async function populateCatalog() {
+            var catalog = await d3.json("catalog.json");
+            d3.select("select#dataset")
+                .selectAll("option")
+                .data(d3.keys(catalog))
+                .enter()
+                .append("option").attr("value", d => d).text(d => d);
+            d3.selectAll("select").on("input", () => {
+                d3.selectAll("img.compimages").attr("src", "");
+                var dataset = d3.select("select#dataset").node().value;
+                var field = d3.select("select#field").node().value;
+                var axis = d3.select("select#axis").node().value;
+                var zoom = d3.select("select#zoom").node().value;
+                ['yt3', 'yt4'].forEach( version => {
+                    if (catalog[dataset][version] === undefined) return;
+                    catalog[dataset][version].forEach( element => {
+                        if (element['field_key'] == field &&
+                            element['axis'] == axis && 
+                            element['zoom'] == zoom) {
+                            console.log("Found it!", element);
+                            d3.select("img#" + version).attr("src", element['filename']);
+                            return true;
+                        };
+                    });
+                })
+            });
+        }
+        window.addEventListener('DOMContentLoaded', (event) => {
+            // Load our catalog file
+            return populateCatalog();
+        });
+    </script>
+</html>

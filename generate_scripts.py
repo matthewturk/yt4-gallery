@@ -25,12 +25,12 @@ def list_datafiles():
         for ds in sorted(d[frontend], key = lambda a: a['filename']):
             click.echo(f"{frontend}/{ds['filename']}")
 
-def append_saved_file(dataset, version, plot_index, info):
+def append_saved_file(dataset, version, info):
     if os.path.isfile("catalog.json"):
         current = json.load(open("catalog.json", "r"))
     else:
         current = {}
-    current.setdefault(dataset, {}).setdefault(version, {})[plot_index] = info
+    current.setdefault(dataset, {}).setdefault(version, []).append(info)
     json.dump(current, open("catalog.json", "w"))
 
 @main.command()
@@ -70,13 +70,15 @@ def make_plots(dataset, yt_version):
                 for zoom in field_spec['zoom']:
                     p.set_width(1.0, 'unitary')
                     p.zoom(zoom)
+                    p.set_cmap("all", field['colormap'])
                     fn = f"{dataset}/yt{yt_version}_p{plot_index:04d}_proj_{f[1]}_{wn}_{ax}_z{zoom:03d}.png"
                     click.echo(f"Saving {fn}")
                     p.save(fn)
+                    append_saved_file(dataset, f"yt{yt_version}", 
+                                      {'field_key': f"{f[1]}_{wn}", 'axis': ax, 
+                                       'zoom': zoom, 'filename': fn,
+                                       'plot_index': plot_index})
                     plot_index += 1
-                    append_saved_file(dataset, f"yt{yt_version}", plot_index,
-                                      {'field': f, 'axis': ax, 'weight_field': w,
-                                       'zoom': zoom, 'filename': fn})
 
 if __name__ == "__main__":
     sys.exit(main())
