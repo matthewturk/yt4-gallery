@@ -167,6 +167,9 @@
   "IsothermalCollapse.tar.gz": {
     "hash": "1420074fdef1c00692bdd4dee31b5b92eaebd668a80510dc554942590b0dae47",
     "load_name": "snap_505.hdf5",
+    "load_kwargs": {"unit_base": {"UnitLength_in_cm": 5.0e16, "UnitMass_in_g":
+        1.98992e33, "UnitVelocity_in_cm_per_s": 46385.190}, "bounding_box":
+        [[-3, 3], [-3, 3], [-3, 3]]},
     "url": "https://yt-project.org/data/IsothermalCollapse.tar.gz"
   },
   "IsothermalSphere.tar.gz": {
