@@ -1,0 +1,3498 @@
+{
+  "snapshot_033": {
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ],
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_033/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_033/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_033/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ]
+  },
+  "IsothermalCollapse": {
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ],
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "IsothermalCollapse/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "IsothermalCollapse/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "IsothermalCollapse/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ]
+  },
+  "gizmo_64": {
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ],
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "gizmo_64/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "gizmo_64/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "gizmo_64/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ]
+  },
+  "snipshot_399_z000p000": {
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snipshot_399_z000p000/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snipshot_399_z000p000/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snipshot_399_z000p000/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ]
+  },
+  "snapshot_028_z000p000": {
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35
+      }
+    ],
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7,
+        "center_max": false
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16,
+        "center_max": false
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25,
+        "center_max": false
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "snapshot_028_z000p000/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "snapshot_028_z000p000/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34,
+        "center_max": false
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "snapshot_028_z000p000/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35,
+        "center_max": false
+      }
+    ]
+  },
+  "GadgetDiskGalaxy": {
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35,
+        "center_max": true
+      }
+    ],
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "GadgetDiskGalaxy/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "GadgetDiskGalaxy/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "GadgetDiskGalaxy/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35,
+        "center_max": true
+      }
+    ]
+  },
+  "TipsyGalaxy": {
+    "yt4": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt4_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt4_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt4_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35,
+        "center_max": true
+      }
+    ],
+    "yt3": [
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0000_proj_density_density_x_z001.png",
+        "plot_index": 0,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0001_proj_density_density_x_z002.png",
+        "plot_index": 1,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0002_proj_density_density_x_z010.png",
+        "plot_index": 2,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0003_proj_density_density_y_z001.png",
+        "plot_index": 3,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0004_proj_density_density_y_z002.png",
+        "plot_index": 4,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0005_proj_density_density_y_z010.png",
+        "plot_index": 5,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0006_proj_density_density_z_z001.png",
+        "plot_index": 6,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0007_proj_density_density_z_z002.png",
+        "plot_index": 7,
+        "center_max": true
+      },
+      {
+        "field_key": "density_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0008_proj_density_density_z_z010.png",
+        "plot_index": 8,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0009_proj_density_None_x_z001.png",
+        "plot_index": 9,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0010_proj_density_None_x_z002.png",
+        "plot_index": 10,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0011_proj_density_None_x_z010.png",
+        "plot_index": 11,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0012_proj_density_None_y_z001.png",
+        "plot_index": 12,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0013_proj_density_None_y_z002.png",
+        "plot_index": 13,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0014_proj_density_None_y_z010.png",
+        "plot_index": 14,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0015_proj_density_None_z_z001.png",
+        "plot_index": 15,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0016_proj_density_None_z_z002.png",
+        "plot_index": 16,
+        "center_max": true
+      },
+      {
+        "field_key": "density_None",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0017_proj_density_None_z_z010.png",
+        "plot_index": 17,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0018_proj_temperature_density_x_z001.png",
+        "plot_index": 18,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0019_proj_temperature_density_x_z002.png",
+        "plot_index": 19,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0020_proj_temperature_density_x_z010.png",
+        "plot_index": 20,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0021_proj_temperature_density_y_z001.png",
+        "plot_index": 21,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0022_proj_temperature_density_y_z002.png",
+        "plot_index": 22,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0023_proj_temperature_density_y_z010.png",
+        "plot_index": 23,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0024_proj_temperature_density_z_z001.png",
+        "plot_index": 24,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0025_proj_temperature_density_z_z002.png",
+        "plot_index": 25,
+        "center_max": true
+      },
+      {
+        "field_key": "temperature_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0026_proj_temperature_density_z_z010.png",
+        "plot_index": 26,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0027_proj_velocity_magnitude_density_x_z001.png",
+        "plot_index": 27,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0028_proj_velocity_magnitude_density_x_z002.png",
+        "plot_index": 28,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "x",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0029_proj_velocity_magnitude_density_x_z010.png",
+        "plot_index": 29,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0030_proj_velocity_magnitude_density_y_z001.png",
+        "plot_index": 30,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0031_proj_velocity_magnitude_density_y_z002.png",
+        "plot_index": 31,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "y",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0032_proj_velocity_magnitude_density_y_z010.png",
+        "plot_index": 32,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 1,
+        "filename": "TipsyGalaxy/yt3_p0033_proj_velocity_magnitude_density_z_z001.png",
+        "plot_index": 33,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 2,
+        "filename": "TipsyGalaxy/yt3_p0034_proj_velocity_magnitude_density_z_z002.png",
+        "plot_index": 34,
+        "center_max": true
+      },
+      {
+        "field_key": "velocity_magnitude_density",
+        "axis": "z",
+        "zoom": 10,
+        "filename": "TipsyGalaxy/yt3_p0035_proj_velocity_magnitude_density_z_z010.png",
+        "plot_index": 35,
+        "center_max": true
+      }
+    ]
+  }
+}
