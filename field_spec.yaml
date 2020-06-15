@@ -1,0 +1,12 @@
+fields: 
+  - yt3: [deposit, gas_density]
+    yt4: [gas, density]
+    weight_none: true
+  - yt3: [deposit, gas_temperature]
+    yt4: [gas, temperature]
+    weight_none: false
+  - yt3: [deposit, gas_velocity_magnitude]
+    yt4: [gas, velocity_magnitude]
+    weight_none: false
+axis: [x, y, z]
+zoom: [ 1, 2, 10 ]
