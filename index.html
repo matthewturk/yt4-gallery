@@ -76,27 +76,30 @@
                 .selectAll("option")
                 .data(d3.keys(catalog))
                 .enter()
-                .append("option").attr("value", d => d).text(d => d);
-            d3.selectAll("select").on("input", () => {
-                d3.selectAll("img.compimages").attr("src", "");
-                var dataset = d3.select("select#dataset").node().value;
-                var field = d3.select("select#field").node().value;
-                var axis = d3.select("select#axis").node().value;
-                var zoom = d3.select("select#zoom").node().value;
-                ['yt3', 'yt4'].forEach( version => {
-                    if (catalog[dataset][version] === undefined) return;
-                    catalog[dataset][version].forEach( element => {
-                        if (element['field_key'] == field &&
-                            element['axis'] == axis && 
-                            element['zoom'] == zoom) {
-                            console.log("Found it!", element);
-                            d3.select("img#" + version).attr("src", element['filename']);
-                            return true;
-                        };
+                .append("option")
+                .attr("value", d => d)
+                .text(d => d);
+            d3.selectAll("select")
+                .on("input", () => {
+                    d3.selectAll("img.compimages").attr("src", "");
+                    var dataset = d3.select("select#dataset").node().value;
+                    var field = d3.select("select#field").node().value;
+                    var axis = d3.select("select#axis").node().value;
+                    var zoom = d3.select("select#zoom").node().value;
+                    ['yt3', 'yt4'].forEach( version => {
+                        if (catalog[dataset][version] === undefined) return;
+                        catalog[dataset][version].forEach( element => {
+                            if (element['field_key'] == field &&
+                                element['axis'] == axis && 
+                                element['zoom'] == zoom) {
+                                console.log("Found it!", element);
+                                d3.select("img#" + version).attr("src", element['filename']);
+                                return true;
+                            };
+                        });
                     });
-                })
-            });
-        }
+                }).dispatch("input");
+        };
         window.addEventListener('DOMContentLoaded', (event) => {
             // Load our catalog file
             return populateCatalog();

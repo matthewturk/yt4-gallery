@@ -11,7 +11,8 @@ YT4_PATH = os.path.expanduser("~/yt/yt/")
 field_spec = yaml.load(open("field_spec.yaml"), Loader = yaml.SafeLoader)
 
 def _get_datafiles():
-    datafiles = json.loads(requests.get('https://yt-project.org/data/datafiles.json').content)
+    #datafiles = json.loads(requests.get('https://yt-project.org/data/datafiles.json').content)
+    datafiles = json.load(open("sample_data_registry.json"))
     return datafiles
 
 @click.group()
@@ -21,9 +22,12 @@ def main():
 @main.command()
 def list_datafiles():
     d = _get_datafiles()
-    for frontend in sorted(d):
-        for ds in sorted(d[frontend], key = lambda a: a['filename']):
-            click.echo(f"{frontend}/{ds['filename']}")
+    for ds in sorted(d):
+        if ds.endswith(".tar.gz"):
+            fn = ds[:-7]
+        else:
+            fn = ds
+        click.echo(f"{fn}");
 
 def append_saved_file(dataset, version, info):
     if os.path.isfile("catalog.json"):
@@ -39,17 +43,21 @@ def append_saved_file(dataset, version, info):
 def make_plots(dataset, yt_version):
     if yt_version == 3:
         sys.path.insert(0, YT3_PATH)
-        field_key = 'yt3'
-        weight_default = ("deposit", "gas_density")
+        field_key = 'yt4'
+        #weight_default = ("deposit", "gas_density")
+        weight_default = ("gas", "density")
+        import yt
+        catalog = _get_datafiles()
+        ds = yt.load(f"{dataset}.tar.gz.untar/{dataset}/{catalog[dataset + '.tar.gz']['load_name']}")
     elif yt_version == 4:
         sys.path.insert(0, YT4_PATH)
         field_key = 'yt4'
         weight_default = ("gas", "density")
+        import yt
+        click.echo(yt)
+        ds = yt.load_sample(dataset)
     else:
         raise click.BadParameter('yt version must be 3 or 4')
-    import yt
-    click.echo(yt)
-    ds = yt.load_sample(dataset)
     click.echo(ds)
     os.makedirs(dataset, exist_ok = True)
     plot_index = 0
